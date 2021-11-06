@@ -1,6 +1,6 @@
 ## Welcome to Xiao Yuan's Profile Page
 
-![photo](blob/main/figures/photo.jpg)
+![photo](figures/photo.jpg)
 
 * **Area / Home:** Beijing / Luoyang
 * **Email:** [yuan_zhi_qiang@sina.cn](yuan_zhi_qiang@sina.cn)
