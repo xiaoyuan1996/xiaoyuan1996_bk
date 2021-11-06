@@ -1,5 +1,10 @@
 ## Welcome to Xiao Yuan's Profile Page
 
+
+<div align=center><img src="https://github.com/xiaoyuan1996/xiaoyuan1996.github.io/blob/main/figures/photo.jpg" width="500px"></div>
+
+
+
 * **Area / Home:** Beijing / Luoyang
 * **Email:** [yuan_zhi_qiang@sina.cn](yuan_zhi_qiang@sina.cn)
 * **Github:** [github.com/xiaoyuan1996](https://github.com/xiaoyuan1996)
