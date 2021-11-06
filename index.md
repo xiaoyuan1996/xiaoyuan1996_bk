@@ -1,10 +1,6 @@
 ## Welcome to Xiao Yuan's Profile Page
 
-
-<div align=center><img src="https://github.com/xiaoyuan1996/xiaoyuan1996.github.io/blob/main/figures/photo.jpg" width="500px"></div>
 ![arch image](blob/main/figures/photo.jpg)
-<img src="https://github.com/xiaoyuan1996/xiaoyuan1996.github.io/blob/main/figures/photo.jpg" width="500"  alt="Multiscale Visual Self-Attention"/>
-
 
 * **Area / Home:** Beijing / Luoyang
 * **Email:** [yuan_zhi_qiang@sina.cn](yuan_zhi_qiang@sina.cn)
