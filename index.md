@@ -2,7 +2,7 @@
 
 ![photo1](figures/photo.jpg)
 
-* **Area / Home:** Beijing / Luoyang
+* **Work / Home:** Beijing / Luoyang
 * **Email:** [yuan_zhi_qiang@sina.cn](yuan_zhi_qiang@sina.cn)
 * **Github:** [github.com/xiaoyuan1996](https://github.com/xiaoyuan1996)
 * **CSDN:** [blog.csdn.net/Governer](https://blog.csdn.net/Governer)
