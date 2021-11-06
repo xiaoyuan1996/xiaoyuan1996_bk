@@ -1,6 +1,6 @@
 ## Welcome to Xiao Yuan's Profile Page
 
-* **Area:** Beijing
+* **Area / Home:** Beijing / Luoyang
 * **Email:** [yuan_zhi_qiang@sina.cn](yuan_zhi_qiang@sina.cn)
 * **Github:** [github.com/xiaoyuan1996](https://github.com/xiaoyuan1996)
 * **CSDN:** [blog.csdn.net/Governer](https://blog.csdn.net/Governer)
@@ -9,6 +9,18 @@
 the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 
 His research interests include computer vision, pattern recognition, and remote sensing image processing, especially on cross-modal retrieval and image caption.
+
+### Education Background
+1. **2015 - 2019 年：**
+      * 哈尔滨工程大学 通信专业 学士学位 学习排名：10/359 CET6: 529 
+      * 主修课程：通信原理 数字信号处理 信号与系统 微机原理 随机信号分析 信息论
+
+2. **2019 - 2020 年：** 
+      * 中国科学院大学 信号与信息处理 博士在读 绩点：3.78/4
+      * 主修课程：模式识别 图像处理 自然语言处理 数据挖掘 矩阵论 随机过程
+
+3. **2020 年 - 至今：** 
+      * 中国科学院电子所 信号与信息处理 博士在读 
 
 ### Papers
 
