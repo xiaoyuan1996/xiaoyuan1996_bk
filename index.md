@@ -2,7 +2,7 @@
 
 
 <div align=center><img src="https://github.com/xiaoyuan1996/xiaoyuan1996.github.io/blob/main/figures/photo.jpg" width="500px"></div>
-![arch image](./figures/photo.jpg)
+![arch image](figures/photo.jpg)
 <img src="https://github.com/xiaoyuan1996/xiaoyuan1996.github.io/blob/main/figures/photo.jpg" width="500"  alt="Multiscale Visual Self-Attention"/>
 
 
