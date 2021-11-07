@@ -24,27 +24,11 @@ His research interests include computer vision, pattern recognition, and remote 
 3. **2020 年 - 至今：** 
       * 中国科学院电子所 信号与信息处理 博士在读 
 
-<details>
-<pre>
-1. 2015 - 2019 年：
-      * 哈尔滨工程大学 通信专业 学士学位 学习排名：10/359 CET6: 529 
-      * 主修课程：通信原理 数字信号处理 信号与系统 微机原理 随机信号分析 信息论 等
-
-2. 2019 - 2020 年：
-      * 中国科学院大学 信号与信息处理 博士在读 绩点：3.78/4
-      * 主修课程：模式识别 图像处理 自然语言处理 数据挖掘 矩阵论 随机过程 等
-
-3. 2020 年 - 至今：
-      * 中国科学院电子所 信号与信息处理 博士在读 
-</pre>
-</details>
-
-
 ### Papers
 
-1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing.
+1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)|[[code]](https://github.com/xiaoyuan1996/AMFMN)
 
-2. **Yuan, Z.**, Zhang, W., Rong, X., Li, X., Chen, J., Wang, H., Fu, K., & Sun, X. (2021). A Lightweight Multi-scale Crossmodal Text-Image Retrieval Method In Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing.
+2. **Yuan, Z.**, Zhang, W., Rong, X., Li, X., Chen, J., Wang, H., Fu, K., & Sun, X. (2021). A Lightweight Multi-scale Crossmodal Text-Image Retrieval Method In Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9594840)|[[code]](https://github.com/xiaoyuan1996/retrievalSystem)
 
 3. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA).
 
