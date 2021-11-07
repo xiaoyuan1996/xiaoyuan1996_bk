@@ -26,9 +26,9 @@ His research interests include computer vision, pattern recognition, and remote 
 
 ### Papers
 
-1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)|[[code]](https://github.com/xiaoyuan1996/AMFMN)
+1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)/[[code]](https://github.com/xiaoyuan1996/AMFMN)
 
-2. **Yuan, Z.**, Zhang, W., Rong, X., Li, X., Chen, J., Wang, H., Fu, K., & Sun, X. (2021). A Lightweight Multi-scale Crossmodal Text-Image Retrieval Method In Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9594840)|[[code]](https://github.com/xiaoyuan1996/retrievalSystem)
+2. **Yuan, Z.**, Zhang, W., Rong, X., Li, X., Chen, J., Wang, H., Fu, K., & Sun, X. (2021). A Lightweight Multi-scale Crossmodal Text-Image Retrieval Method In Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9594840)/[[code]](https://github.com/xiaoyuan1996/retrievalSystem)
 
 3. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA).
 
