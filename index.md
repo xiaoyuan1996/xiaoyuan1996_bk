@@ -32,6 +32,9 @@ His research interests include computer vision, pattern recognition, and remote 
 
 3. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA).
 
+**Knowledge Radar**
+![knowledge_radar](figures/knowledge_radar.jpg)
+
 ### Involved Projects
 
 1. **2019 年：** 制作的 labview 教程获得将近 10 万学员：[www.51zxw.net/list.aspx?cid=757](https://www.51zxw.net/list.aspx?cid=757)
