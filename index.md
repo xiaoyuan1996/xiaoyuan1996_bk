@@ -27,7 +27,7 @@ His research interests include computer vision, pattern recognition, and remote 
 
 ### Academic
 
-- **Papers**
+#### Papers
 
 1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)/[[code]](https://github.com/xiaoyuan1996/AMFMN)
 
@@ -35,10 +35,10 @@ His research interests include computer vision, pattern recognition, and remote 
 
 3. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA). [[paper]](https://ieeexplore.ieee.org/document/9644162)/[[code]](https://github.com/xiaoyuan1996/Res-Trans)
 
-- **Knowledge Radar**
+#### Knowledge Radar
 ![knowledge_radar](figures/knowledge_radar.jpg)
 
-- **Others**
+#### Others
 
 1. Reviewer of "Neural Computing and Applications". 
 
