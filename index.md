@@ -29,16 +29,18 @@ His research interests include computer vision, pattern recognition, and remote 
 
 #### Papers
 
-1. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)/[[code]](https://github.com/xiaoyuan1996/AMFMN)
+1.  **Yuan, Z.**, Zhang, W., Tian, C., Rong, X., Zhang, Z., Wang, H., Fu, K., & Sun, X. (2022). Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9745546)/[[code]](https://github.com/xiaoyuan1996/GaLR)
 
 2. **Yuan, Z.**, Zhang, W., Rong, X., Li, X., Chen, J., Wang, H., Fu, K., & Sun, X. (2021). A Lightweight Multi-scale Crossmodal Text-Image Retrieval Method In Remote Sensing. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9594840)/[[code]](https://github.com/xiaoyuan1996/retrievalSystem)
 
-3. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA). [[paper]](https://ieeexplore.ieee.org/document/9644162)/[[code]](https://github.com/xiaoyuan1996/Res-Trans)
+3. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)/[[code]](https://github.com/xiaoyuan1996/AMFMN)
+
+4. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA). [[paper]](https://ieeexplore.ieee.org/document/9644162)/[[code]](https://github.com/xiaoyuan1996/Res-Trans)
 
 #### Knowledge Radar
 ![knowledge_radar](figures/knowledge_radar.jpg)
 
-#### Others
+#### Voluntary Labor
 
 1. Reviewer of "Neural Computing and Applications". 
 
