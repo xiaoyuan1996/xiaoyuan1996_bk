@@ -46,7 +46,8 @@ His research interests include computer vision, pattern recognition, and remote 
 #### Voluntary Labor
 
 1. Reviewer of "IEEE Transactions on Geoscience and Remote Sensing". 
-2. Reviewer of "Neural Computing and Applications". 
+2. Reviewer of "IEEE Transactions on Circuits and Systems for Video Technology". 
+3. Reviewer of "Neural Computing and Applications". 
 
 ### Involved Projects
 1. **2021 年**: 多源跨模态检索系统开发，负责对大型样本库中的遥感数据进行多源检索
