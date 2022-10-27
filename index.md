@@ -43,7 +43,7 @@ His research interests include computer vision, pattern recognition, and remote 
 
 7. Liu, J.; **Yuan, Z.\***; Pan, Z.; Fu, Y.; Liu, L.; Lu, B. Diffusion Model with Detail Complement for Super-Resolution of Remote Sensing. Remote Sens. 2022, 14, 4834. [[paper]](https://www.mdpi.com/2072-4292/14/19/4834) 
 
-8. X. Rong, X. Sun, W. Diao, P. Wang, **Z. Yuan** and H. Wang. Historical information-guided Class-Incremental Semantic Segmentation in Remote Sensing Images. **IEEE Transactions** on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9762919]
+8. X. Rong, X. Sun, W. Diao, P. Wang, **Z. Yuan** and H. Wang. Historical information-guided Class-Incremental Semantic Segmentation in Remote Sensing Images. **IEEE Transactions** on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9762919)
 
 #### Voluntary Labor
 
