@@ -37,9 +37,11 @@ His research interests include computer vision, pattern recognition, and remote 
 
 4. **Yuan, Z.**, Zhang, W., Fu, K., Li, X., Deng, C., Wang, H., & Sun, X. (2021). Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval. **IEEE Transactions** on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9437331)/[[code]](https://github.com/xiaoyuan1996/AMFMN)
 
-5. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA). [[paper]](https://ieeexplore.ieee.org/document/9644162)/[[code]](https://github.com/xiaoyuan1996/Res-Trans)
+5. **Yuan Z**, Zhang W, Tian C, et al. MCRN: A Multi-source Cross-modal Retrieval Network for Remote Sensing[J]. International Journal of Applied Earth Observation and Geoinformation, 2022.
 
-6. Liu, J.; **Yuan, Z.\***; Pan, Z.; Fu, Y.; Liu, L.; Lu, B. Diffusion Model with Detail Complement for Super-Resolution of Remote Sensing. Remote Sens. 2022, 14, 4834. [[paper]](https://www.mdpi.com/2072-4292/14/19/4834) 
+6. **Yuan, Z.**, Li, S., Zhang, W., Du, R., Sun, X., & Wang, H. (2021). Speech Emotion Recognition Based on Secondary Feature Reconstruction. 6th IEEE International Conference on Computational Intelligence and Applications (ICCIA). [[paper]](https://ieeexplore.ieee.org/document/9644162)/[[code]](https://github.com/xiaoyuan1996/Res-Trans)
+
+7. Liu, J.; **Yuan, Z.\***; Pan, Z.; Fu, Y.; Liu, L.; Lu, B. Diffusion Model with Detail Complement for Super-Resolution of Remote Sensing. Remote Sens. 2022, 14, 4834. [[paper]](https://www.mdpi.com/2072-4292/14/19/4834) 
 
 7. X. Rong, X. Sun, W. Diao, P. Wang, **Z. Yuan** and H. Wang. Historical information-guided Class-Incremental Semantic Segmentation in Remote Sensing Images. **IEEE Transactions** on Geoscience and Remote Sensing. [[paper]](https://ieeexplore.ieee.org/document/9762919)
 
